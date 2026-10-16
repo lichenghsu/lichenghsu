@@ -10,7 +10,7 @@ website: https://lcxlab.com
 current_work:
   [
     "On-prem Kubernetes (RKE2 / K3s) for government & enterprise",
-    "IBM DB2 / MariaDB Galera operations",
+    "PostgreSQL CNPG / IBM DB2 / MariaDB Galera operations",
     "Legacy system rewrite & migration",
   ]
 
@@ -37,7 +37,7 @@ currently_learning: ["Platform Engineering", "Observability"]
 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,docker,kubernetes,git,java,spring,postgresql,mysql,nginx,prometheus,grafana,neovim,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,docker,kubernetes,git,java,spring,vue,postgresql,mysql,nginx,prometheus,grafana,neovim,&perline=7)](https://skillicons.dev)
 <br></br>
 
 [github]: https://github.com/lichenghsu
